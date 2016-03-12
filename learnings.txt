@@ -3,3 +3,7 @@ webpack -d
 as well as use the script.
 
 Also, -d builds the .map file
+
+---
+
+Now that we've added it to packages.json, the tasks get automatically run for 'dev' when using npm run dev, and for 'prod' when we run 'npm run build'
