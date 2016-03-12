@@ -1,0 +1,5 @@
+Now that I've installed it globally I can do 
+webpack -d 
+as well as use the script.
+
+Also, -d builds the .map file
